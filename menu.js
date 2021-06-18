@@ -9,7 +9,7 @@ function menu() {
 	
 	this.preload = function () {
 		
-		game.stage.backgroundColor = "#0066ff";
+		game.stage.backgroundColor = "#000000";
 		game.load.image("botao-iniciar", "botao-iniciar.png");
 		game.load.image("menu", "menu-sozinho.jpg");
 	};
